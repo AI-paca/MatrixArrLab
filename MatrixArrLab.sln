@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixArrLab", "MatrixArrLab\MatrixArrLab.csproj", "{38FA53FB-4F9E-4289-AD61-2D837C53BED6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8C77848F-1AAA-4929-B218-5DB1C07E2292}"
+	ProjectSection(SolutionItems) = preProject
+		MatrixArrLab\MassiveSorting.cs = MatrixArrLab\MassiveSorting.cs
+		MatrixArrLab\MyArray.cs = MatrixArrLab\MyArray.cs
+		MatrixArrLab\Program.cs = MatrixArrLab\Program.cs
+		MatrixArrLab\StepArray.cs = MatrixArrLab\StepArray.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38FA53FB-4F9E-4289-AD61-2D837C53BED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38FA53FB-4F9E-4289-AD61-2D837C53BED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38FA53FB-4F9E-4289-AD61-2D837C53BED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38FA53FB-4F9E-4289-AD61-2D837C53BED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {313DCE04-4232-4505-BE98-2E529CC9C292}
+	EndGlobalSection
+EndGlobal
